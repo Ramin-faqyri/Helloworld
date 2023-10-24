@@ -3,8 +3,8 @@
 
 ***My name is Ramin, this is my first Projekt :)*** 🥐
 
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+<p align="left">
+  <img width="250" src="https://gifdb.com/images/high/goku-jumping-in-flying-nimbus-stra1nf76yo1s7jg.gif">
 </p>
 
 ## 🛠  Technologies and tools
